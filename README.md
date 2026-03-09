@@ -22,7 +22,7 @@
 ## 💻 Languages and Tools
 ### 🌐 Frontend & Backend
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,c,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,c" />
 </p>
 
 ### 🤖 AI, IoT & Tools
