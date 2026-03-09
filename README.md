@@ -87,48 +87,36 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
 # 👀 Profile Visitor Counter
 
 <p align="center">
