@@ -2,8 +2,10 @@
   <h1>Hi 👋, I'm Devapriya Paul Kundu</h1>
   <h3>A passionate Full-Stack Developer & IoT Enthusiast from India 🇮🇳</h3>
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70" width="100%" />
+  <img src="https://raw.githubusercontent.com/msharratt/msharratt/main/assets/banner.gif" width="100%" alt="Developer Banner" />
 </div>
+
+---
 
 ## 💫 About Me
 - 🎓 I’m currently pursuing a **Diploma in Computer Science & Technology** at Technique Polytechnic Institute (2026).
