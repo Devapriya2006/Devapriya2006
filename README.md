@@ -20,17 +20,11 @@
 ---
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&count_private=true&v=3" alt="Devapriya Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&v=3" alt="Top Langs" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&cache_id=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&cache_id=1)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&v=3" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&cache_id=1)
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
+![Snake](https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg)
