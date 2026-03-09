@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Devapriya Paul Kundu</h1>
-  <p><strong>Full-Stack Developer | IoT Enthusiast | India 🇮🇳</strong></p>
+  <p><strong>Front-End Developer | IoT Enthusiast | India 🇮🇳</strong></p>
 
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="100%" alt="Developer Banner" />
 </div>
