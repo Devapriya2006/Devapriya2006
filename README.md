@@ -44,6 +44,6 @@
 </p>
 
 ## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg" />
+</p>
