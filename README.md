@@ -1,49 +1,188 @@
 <div align="center">
-  <h1>Hi 👋, I'm Devapriya Paul Kundu</h1>
-  <h3>A passionate Front-End Developer & IoT Enthusiast from India 🇮🇳</h3>
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=240&section=header&text=Devapriya%20Paul%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+# Hi 👋 I'm Devapriya Paul Kundu
+
+### 💻 Front-End Developer | 🤖 IoT Enthusiast | 🇮🇳 India
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;IoT+Developer;AI+%26+Machine+Learning+Learner;Computer+Vision+with+OpenCV;Building+Cool+Tech+Projects" />
+
+<img src="https://komarev.com/ghpvc/?username=Devapriya2006&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </div>
 
-## 💫 About Me
-- 🎓 I’m currently pursuing a **Diploma in Computer Science & Technology** at Technique Polytechnic Institute (2026).
-- 🚀 Member of **Team BuilderX** — building cool stuff with Arindam, Sougata, and Som.
-- 🛠️ Deeply interested in **AI, Machine Learning, and Computer Vision** (OpenCV).
-- ⚡ Fun fact: Huge fan of **Virat Kohli** and the Indian Cricket Team! 🏏
+---
 
-<p align="left">
-<a href="mailto:devapriya2006paul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/DEVAPRIYAPAULKUNDU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://facebook.com/DevapriyaPaulKundu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://instagram.com/imdevapriyapaul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/DevapriyaPaulKundu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
+# 💫 About Me
 
-## 💻 Languages and Tools
-### 🌐 Frontend & Backend
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,c" />
-</p>
+🎓 Diploma in **Computer Science & Technology**  
+🏫 Technique Polytechnic Institute (2026)
 
-### 🤖 AI, IoT & Tools
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,opencv" />
+🚀 Member of **Team BuilderX**
+
+🧠 Interested in  
+• Artificial Intelligence  
+• Machine Learning  
+• Computer Vision (OpenCV)  
+• IoT Systems  
+
+🏏 Huge fan of **Virat Kohli** and the Indian Cricket Team
+
+---
+
+# 👨‍💻 Coding Mode
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+# 🌐 Connect With Me
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight" />
+
+<a href="mailto:devapriya2006paul@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+# 💻 Tech Stack
+
+### 🌐 Languages
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql" />
+
 </p>
 
-## 🐍 Contribution Snake
+### ⚙️ Tools & Technologies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg" alt="snake" />
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,opencv" />
+
 </p>
+
+---
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Devapriya2006&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+# 🚀 Team BuilderX
+
+👨‍💻 Devapriya Paul Kundu  
+👨‍💻 Arindam  
+👨‍💻 Sougata  
+👨‍💻 Som  
+
+Building **cool tech projects together** 🚀
+
+---
+
+# 🎯 2026 Goals
+
+✔ Build AI + Computer Vision Projects  
+✔ Create IoT Smart Systems  
+✔ Improve Frontend Development  
+✔ Contribute to Open Source  
+✔ Launch Innovative Projects
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
