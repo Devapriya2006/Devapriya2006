@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Devapriya Paul Kundu</h1>
-  <h3>A passionate Full-Stack Developer & IoT Enthusiast from India 🇮🇳</h3>
+  <h3>A passionate Front-End Developer & IoT Enthusiast from India 🇮🇳</h3>
 
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=70" width="100%" />
 </div>
@@ -11,12 +11,13 @@
 - 🛠️ Deeply interested in **AI, Machine Learning, and Computer Vision** (OpenCV).
 - ⚡ Fun fact: Huge fan of **Virat Kohli** and the Indian Cricket Team! 🏏
 
-## 🌐 Connect with me
 <p align="left">
 <a href="mailto:devapriya2006paul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
-
 ---
 
 ## 💻 Languages and Tools
