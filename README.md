@@ -89,10 +89,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006ue&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=radical"/>
 </p>
 ---
 
