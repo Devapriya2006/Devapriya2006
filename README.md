@@ -103,10 +103,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub)
+## 🏆 GitHub Trophie
+![](https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=darkhub)
 ---
 
 ## 📈 GitHub Activity Graph
