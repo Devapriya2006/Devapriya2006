@@ -21,8 +21,8 @@
 
 🚀 Member of **Team BuilderX**
 
-## 🌐 Portfolio
 
+## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pauldevapriyaportfolio.netlify.app/)
 
 📧 Email: devapriya2006paul@gmail.com
