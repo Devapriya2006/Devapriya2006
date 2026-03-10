@@ -97,11 +97,13 @@
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&border_radius=10&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF"/>
 </p>
 
 ---
+
 ## 🏆 GitHub Trophie
 ![](https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=darkhub)
 ---
