@@ -22,7 +22,9 @@
 🚀 Member of **Team BuilderX**
 
 🌐 Personal Portfolio: https://pauldevapriyaportfolio.netlify.app/
+
 📧 Email: devapriya2006paul@gmail.com
+
 🧠 Interested in  
 • Artificial Intelligence  
 • Machine Learning  
