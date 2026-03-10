@@ -40,7 +40,6 @@
 </p>
 
 ---
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -50,14 +49,19 @@
 </a>
 
 <a href="https://www.linkedin.com/in/devapriya-paul-kundu-0a1472343?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/imdevapriyapaul">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/Devapriyapaulkundu">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Devapriya Paul Kundu">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
@@ -84,14 +88,6 @@
 
 ---
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight"/>
-</p>
 ---
 
 ## 🔥 GitHub Streak
