@@ -96,27 +96,6 @@
 
 ---
 
-# 📊 My GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
