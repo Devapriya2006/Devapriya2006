@@ -99,7 +99,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60" height="170"/>
 
