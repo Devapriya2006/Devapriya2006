@@ -102,6 +102,10 @@
 <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&cache_seconds=0" height="170"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="170"/>
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
