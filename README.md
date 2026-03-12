@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;IoT+Developer;AI+%26+Machine+Learning+Learner;Computer+Vision+with+OpenCV;Building+Cool+Tech+Projects" />
 
-<img src="https://komarev.com/ghpvc/?username=Devapriya2006&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Devapriya2006&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
