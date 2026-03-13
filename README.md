@@ -98,12 +98,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&v=1773363324" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&v=1773363324" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&v=1773383721" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&v=1773383721" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1773363324" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1773383721" height="170"/>
 </p>
 
 
