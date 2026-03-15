@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/imdevapriyapaul">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
-  <a href="https://discord.gg/devapriyapaulkundu">
+  <a href="https://discord.gg/BMr2vNPK8Q">
     <img src="https://skillicons.dev/icons?i=discord" height="50" />
   </a>
   <a href="https://twitter.com/PaulDevapriya">
