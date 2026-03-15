@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=240&section=header&text=Devapriya%20Paul%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 # Hi 👋 I'm Devapriya Paul Kundu
 
@@ -46,33 +45,25 @@
 </p>
 
 ---
-# 🌐 Connect With Me
+## 🌐 Connect with me
 
 <p align="center">
-
-<a href="mailto:devapriya2006paul@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/devapriya-paul-kundu-0a1472343?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/imdevapriyapaul">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Devapriyapaulkundu">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://x.com/PaulDevapriya">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" />
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
 </p>
-
----
 
 # 💻 Tech Stack
 
