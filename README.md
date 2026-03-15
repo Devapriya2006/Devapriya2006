@@ -150,12 +150,12 @@ Building **cool tech projects together** 🚀
 ---
 
 # 🎯 2026 Goals
-
-✔ Build AI + Computer Vision Projects  
-✔ Create IoT Smart Systems  
-✔ Improve Frontend Development  
-✔ Contribute to Open Source  
-✔ Launch Innovative Projects
+✔ Build AI + Computer Vision Projects
+✔ Create IoT Smart Systems
+✔ Improve Frontend Development
+✔ Learn Backend Development
+✔ Contribute to Open Source
+✔ Launch Innovative Projects 🚀
 
 ---
 
