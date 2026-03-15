@@ -48,7 +48,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devapriya-paul-kundu-0a1472343?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">">
+  <a href="https://www.linkedin.com/in/devapriya-paul-kundu-0a1472343?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="https://www.instagram.com/imdevapriyapaul">
