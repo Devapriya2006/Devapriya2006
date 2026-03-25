@@ -126,9 +126,10 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
 ---
+
 # 🐍 Contribution Snake (Dark Theme)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#000000,#003300,#006600,#00cc00,#00ff00"/>
 </p>
