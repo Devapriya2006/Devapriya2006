@@ -87,18 +87,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&v=1776601777" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&v=1776623343" 
     height="165"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&v=1776601777" 
+    src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&v=1776623343" 
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&v=1776601777" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&v=1776623343" 
     height="165"
   />
 </p>
