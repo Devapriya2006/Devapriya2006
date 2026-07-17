@@ -150,10 +150,12 @@
 </p>
 
 # 🚀 👨‍💻 ERROR NOT FOUND
+👨‍💻 Devapriya Paul Kundu
 
-👨‍💻 Devapriya Paul Kundu  
-👨‍💻 Arindam  
+👨‍💻 Arindam
+
 👨‍💻 Sayan
+
 👨‍💻 Sinchon
 
 Building **cool tech projects together** 🚀
