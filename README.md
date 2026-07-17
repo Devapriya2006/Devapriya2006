@@ -3,22 +3,17 @@
 
 # Hi 👋 I'm Devapriya Paul Kundu
 
-### 💻 Front-End Developer | 🤖 IoT Enthusiast | 🇮🇳 India
+### 💻 Full Stack Developer | 🤖 IoT Enthusiast | 🇮🇳 India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;IoT+Developer;AI+%26+Machine+Learning+Learner;Computer+Vision+with+OpenCV;Building+Cool+Tech+Projects" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;IoT+Developer;AI+%26+Machine+Learning+Learner;Computer+Vision+with+OpenCV;Building+Cool+Tech+Projects" />
 
 </div>
 
 ---
-
 # 💫 About Me
-
 🎓 Diploma in **Computer Science & Technology**  
 🏫 Technique Polytechnic Institute (2026)
-
 🚀 Member of **INNOVATE X**
-
 
 ## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://pauldevapriyaportfolio.netlify.app/)
