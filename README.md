@@ -13,6 +13,7 @@
 # 💫 About Me
 🎓 Diploma in **Computer Science & Technology**  
 🏫 Technique Polytechnic Institute (2026)
+
 🚀 Member of **INNOVATE X**
 
 ## 🌐 Portfolio
