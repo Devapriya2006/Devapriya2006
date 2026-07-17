@@ -17,7 +17,7 @@
 🎓 Diploma in **Computer Science & Technology**  
 🏫 Technique Polytechnic Institute (2026)
 
-🚀 Member of **Team BuilderX**
+🚀 Member of **INNOVATE X**
 
 
 ## 🌐 Portfolio
