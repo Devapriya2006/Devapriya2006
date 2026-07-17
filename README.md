@@ -74,6 +74,14 @@
 
 </p>
 
+### 🖥️ Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt" />
+
+</p>
+
 ### ⚙️ Tools & Technologies
 
 <p align="center">
@@ -145,12 +153,12 @@
   <img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#000000,#003300,#006600,#00cc00,#00ff00"/>
 </p>
 
-# 🚀 Team BuilderX
+# 🚀 👨‍💻 ERROR NOT FOUND
+
 👨‍💻 Devapriya Paul Kundu  
 👨‍💻 Arindam  
-👨‍💻 Sougata  
-👨‍💻 Som  
-
+👨‍💻 Sayan
+👨‍💻 Sinchon
 Building **cool tech projects together** 🚀
 
 ---
