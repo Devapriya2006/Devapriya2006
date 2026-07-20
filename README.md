@@ -88,20 +88,6 @@
 
 <br/>
 
-## 🚀 Team — ERROR NOT FOUND
-
-<div align="center">
-
-Building **cool tech projects together**
-
-| 👨‍💻 | 👨‍💻 | 👨‍💻 | 👨‍💻 |
-|:---:|:---:|:---:|:---:|
-| Devapriya| Arindam | Sayan | Sinchon |
-
-</div>
-
-<br/>
-
 ## 🎯 2026 Goals
 
 - ✅ Build AI + Computer Vision Projects
