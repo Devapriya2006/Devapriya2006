@@ -62,21 +62,33 @@
 </div>
 
 <br/>
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&v=1784292786" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&v=1784292786" 
+    height="165"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&v=1784292786" 
+    height="165"
+  />
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&v=1784596415" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true&border_radius=10&v=1784596415" height="165"/>
+## 📈 Contribution Graph
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&v=1784596415" height="165"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true&radius=10"/>
 
-</div>
-
-<br/>
 
 ## 🏆 Trophy Case
 
