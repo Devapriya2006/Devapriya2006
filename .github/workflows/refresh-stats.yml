@@ -2,7 +2,7 @@ name: Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,25 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update cache-busting parameter
+      - name: Update cache version
         run: |
-          VERSION=$(date +%s)
+          TS=$(date +%s)
 
-          sed -i "s/v=[0-9]\+/v=$VERSION/g" README.md
+          sed -i "s/v=[0-9]*/v=$TS/g" README.md
 
-      - name: Commit and push if changed
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "Nothing to commit"
           else
-            git commit -m "🔄 Auto refresh GitHub stats"
+            git commit -m "🔄 Refresh GitHub Stats"
             git push
           fi
