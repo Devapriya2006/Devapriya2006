@@ -32,18 +32,35 @@
 <td align="center" width="33%">
 
 **Languages**
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql" />
-
-</td>
 <td align="center" width="33%">
 
-**Backend & DB**
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </td>
+
 <td align="center" width="33%">
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+
+</td>
+
+</tr>
+</table>
 
 **Tools**
 
