@@ -55,7 +55,7 @@
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 
 </td>
 
@@ -64,7 +64,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,opencv" />
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,opencv,linux,gcp"/>
 
 </td>
 </tr>
@@ -73,9 +73,6 @@
 <br/>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
-
 </div>
 
 <br/>
