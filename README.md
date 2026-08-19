@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://pauldevapriyaportfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-visit_site-00F7FF?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://devstudio-bfye.onrender.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-visit_site-00F7FF?style=for-the-badge&labelColor=0d1117" /></a>
 <a href="mailto:devapriya2006paul@gmail.com"><img src="https://img.shields.io/badge/📧_Email-contact_me-6a11cb?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
