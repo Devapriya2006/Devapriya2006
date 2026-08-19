@@ -81,27 +81,17 @@
 <br/>
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devapriya2006&theme=tokyonight" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devapriya2006&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Devapriya2006&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Devapriya2006&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devapriya2006&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
 
 ## 🏆 Trophy Case
 
@@ -168,4 +158,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:00F7FF&height=120&section=footer"/>
 
-<!-- Updated: Sat Jul 18 2026 -->
+<!-- Updated: Thu Aug 20 2026 -->
