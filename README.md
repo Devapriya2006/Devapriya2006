@@ -80,24 +80,19 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Devapriya2006&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Devapriya2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devapriya2006&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devapriya2006&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Devapriya2006&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ## 📈 Contribution Graph
