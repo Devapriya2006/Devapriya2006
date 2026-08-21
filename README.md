@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6a11cb&height=200&section=header&text=Devapriya%20Paul%20Kundu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6a11cb&height=200&section=header&text=Devapriya%20Paul%20Kundu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;;AI+%26+Machine+Learning+Learner;Computer+Vision+with+OpenCV;Building+Cool+Tech+Projects+%F0%9F%9A%80" />
 
