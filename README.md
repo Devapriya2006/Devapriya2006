@@ -17,13 +17,14 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | Diploma in Computer Science & Technology · Technique Polytechnic Institute (2026) |
+| 🎓 **Education** | Diploma in Computer Science & Technology · Technique Polytechnic Institute (2026) .**B.Tech in Computer Science & Engineering · Academy of Technology** |
 | 🚀 **Community** | Member of **INNOVATE X** |
 | 🧠 **Focus areas** | Artificial Intelligence · Machine Learning · Computer Vision (OpenCV) · Full Stack Development |
 | 🏏 **Off duty** | Huge fan of **Virat Kohli** and the Indian Cricket Team |
 | 📍 **Based in** | India |
 
 <br/>
+
 
 ## 🛠️ Tech Stack
 
