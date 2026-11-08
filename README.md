@@ -123,9 +123,7 @@
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Devapriya2006/Devapriya2006/output/github-contribution-grid-koi.svg" alt="Git Koi Contribution Animation" />
-
+  <img src="koi/koi.gif" width="256" alt="Git Koi Contribution Animation"/>
 </div>
 
 <br/>
